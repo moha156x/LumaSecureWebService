@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zLfaG9xKlIUNgT27p5Imye8Dr7NFsk4CnlfYoFY0WDk=",
+  "Source": "LumaSecureWebService",
+  "BasePath": "_content/LumaSecureWebService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
